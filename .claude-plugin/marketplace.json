@@ -1,0 +1,14 @@
+{
+  "name": "ergo-services",
+  "owner": {
+    "name": "Ergo Services"
+  },
+  "plugins": [
+    {
+      "name": "ergo",
+      "source": "./",
+      "description": "Agents and skills for building and operating distributed actor-based systems with Ergo Framework (v3.3+)",
+      "version": "1.2.0"
+    }
+  ]
+}
